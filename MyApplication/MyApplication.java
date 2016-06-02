@@ -1,4 +1,5 @@
-/* No matter the name of the file, when you compile a .class file 
+/**
+ * No matter the name of the file, when you compile a .class file 
  * will be generated with the name of the class. In this case MyApplication.class
  */
 class MyApplication{
