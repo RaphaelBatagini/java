@@ -1,6 +1,8 @@
 /**
- * No matter the name of the file, when you compile a .class file 
- * will be generated with the name of the class. In this case MyApplication.class
+ * When you compile a .java file will be generated 
+ * a .class file with the actual class name. In this
+ * case MyApplication.class. The name of the .java 
+ * file doesn't matter.
  */
 class MyApplication{
 	public static void main(String[] args){
