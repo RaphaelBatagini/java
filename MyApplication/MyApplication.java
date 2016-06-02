@@ -6,6 +6,6 @@
  */
 class MyApplication{
 	public static void main(String[] args){
-		System.out.println("Minha aplicacao");
+		System.out.println("My application");
 	}
 }
