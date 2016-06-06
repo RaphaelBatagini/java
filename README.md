@@ -7,6 +7,7 @@ Studying Java
 * [Division By Zero](https://github.com/RaphaelBatagini/java/tree/master/DivisionByZero)
 * [Increment and Decrement Operators](https://github.com/RaphaelBatagini/java/tree/master/IncrementDecrement)
 * [Loops and Conditionals](https://github.com/RaphaelBatagini/java/tree/master/LoopsAndConditionals)
+* [Object Orientation](https://github.com/RaphaelBatagini/java/tree/master/ObjectOrientation)
 
 Book containing the subject of study:
-* [Book](https://www.caelum.com.br/apostila-java-orientacao-objetos) 3.12
+* [Book](https://www.caelum.com.br/apostila-java-orientacao-objetos) Cap. 4
