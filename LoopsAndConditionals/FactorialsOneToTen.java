@@ -1,4 +1,4 @@
-class Exercise4{
+class FactorialsOneToTen{
 	public static void main(String[] args){
 		OUTTER:
 		for(int n = 0; n <= 10; n++){

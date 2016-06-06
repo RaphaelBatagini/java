@@ -1,4 +1,4 @@
-class Exercise5{
+class FactorialsOneToTwenty{
 	public static void main(String[] args){
 		OUTTER:
 		for(int n = 0; n <= 20; n++){
