@@ -12,4 +12,4 @@ Studying Java
 	* [Recursion](https://github.com/RaphaelBatagini/java/tree/master/ObjectOrientation/Recursion)
 
 Book containing the subject of study:
-* [Book](https://www.caelum.com.br/apostila-java-orientacao-objetos) Cap. 4
+* [Book](https://www.caelum.com.br/apostila-java-orientacao-objetos) Cap. 4.13
