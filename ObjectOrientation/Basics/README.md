@@ -1,4 +1,4 @@
-# Object Orientation
+# Basics
 
 Using object orientation basics to build a class Employee.
 
