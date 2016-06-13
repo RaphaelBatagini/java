@@ -10,6 +10,7 @@ Studying Java
 * [Object Orientation](https://github.com/RaphaelBatagini/java/tree/master/ObjectOrientation)
 	* [Basics](https://github.com/RaphaelBatagini/java/tree/master/ObjectOrientation/Basics)
 	* [Recursion](https://github.com/RaphaelBatagini/java/tree/master/ObjectOrientation/Recursion)
+	* [Array as Attributes](https://github.com/RaphaelBatagini/java/tree/master/ObjectOrientation/ArrayAttributes)
 
 Book containing the subject of study:
 * [Book](https://www.caelum.com.br/apostila-java-orientacao-objetos) Cap. 4.13
