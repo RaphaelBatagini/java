@@ -14,4 +14,4 @@ Studying Java
 	* [Array as Attributes](https://github.com/RaphaelBatagini/java/tree/master/ObjectOrientation/ArrayAttributes)
 
 Book containing the subject of study:
-* [Book](https://www.caelum.com.br/apostila-java-orientacao-objetos) Cap. 5.6
+* [Book](https://www.caelum.com.br/apostila-java-orientacao-objetos) Cap. 5.7
