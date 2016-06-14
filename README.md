@@ -7,6 +7,7 @@ Studying Java
 * [Division By Zero](https://github.com/RaphaelBatagini/java/tree/master/DivisionByZero)
 * [Increment and Decrement Operators](https://github.com/RaphaelBatagini/java/tree/master/IncrementDecrement)
 * [Loops and Conditionals](https://github.com/RaphaelBatagini/java/tree/master/LoopsAndConditionals)
+* [Arrays](https://github.com/RaphaelBatagini/java/tree/master/Arrays)
 * [Object Orientation](https://github.com/RaphaelBatagini/java/tree/master/ObjectOrientation)
 	* [Basics](https://github.com/RaphaelBatagini/java/tree/master/ObjectOrientation/Basics)
 	* [Recursion](https://github.com/RaphaelBatagini/java/tree/master/ObjectOrientation/Recursion)
