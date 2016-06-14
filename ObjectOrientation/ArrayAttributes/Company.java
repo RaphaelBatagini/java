@@ -46,7 +46,7 @@ class Company{
 	boolean employeeExists(String name){
 		for (Employee x : this.employees) {
 			if (x != null) {
-	                        if (x.name == name) {
+	                        if (new String(x.name).equals(name)) {
         	                        return true;
                 	        }
 			}
