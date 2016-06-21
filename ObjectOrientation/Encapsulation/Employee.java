@@ -3,11 +3,18 @@ class Employee{
 	private int age = 23;
 	private double salary = 1000.00f;
 
+	//value shared by all instances
+	private static int identifier = 0;
+
+	//set class id with identifier attr
+	private int id = Employee.identifier;
+
 	public Employee(){
-		//default constructor with no arguments
+		Employee.identifier++;
 	}
 
 	public Employee(String name){
+		Employee.identifier++;
 		this.name = name;
 	}
 
@@ -25,5 +32,13 @@ class Employee{
 
 	public String getName(){
 		return this.name;
+	}
+
+	public int getId(){
+		return this.id;
+	}
+
+	private static int getIdentifier(){
+		return Employee.identifier;
 	}
 }
