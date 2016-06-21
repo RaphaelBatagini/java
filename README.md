@@ -14,6 +14,7 @@ Studying Java
 	* [Array as Attributes](https://github.com/RaphaelBatagini/java/tree/master/ObjectOrientation/ArrayAttributes)
 	* [Recursion With Array](https://github.com/RaphaelBatagini/java/tree/master/ObjectOrientation/RecursionWithArray)
 	* [Class House Example](https://github.com/RaphaelBatagini/java/tree/master/ObjectOrientation/ClassHouseExample)
+	* [Encapsulation](https://github.com/RaphaelBatagini/java/tree/master/ObjectOrientation/Encapsulation)
 
 
 Book containing the subject of study:
