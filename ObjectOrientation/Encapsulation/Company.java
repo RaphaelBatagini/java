@@ -1,11 +1,27 @@
 class Company{
-	String name = "";
-	String cnpj = "";
-	Employee[] employees;
+	private String name = "";
+	private String cnpj = "";
+	private Employee[] employees;
+
+	public Company(int numberOfEmployees){
+		this.employees = new Employee[numberOfEmployees];
+	}
+
+	public void setName(String name){
+		this.name = name;
+	}
+
+	public void setCnpj(String cnpj){
+		this.cnpj = cnpj;
+	}
+
+	public Employee getEmployee(int position){
+		return this.employees[position];
+	}
 
 	void addEmployee(Employee employee){
 		boolean done = false;
-		for (int i = 0; i < employees.length; i++) {
+		for (int i = 0; i < this.employees.length; i++) {
 			//find the first unused index
 			if (this.employees[i] == null) {
 				this.employees[i] = employee;
@@ -31,9 +47,9 @@ class Company{
 	void showEmployees(){
 		for (Employee x : this.employees) {
 			if (x != null) {
-				System.out.println("Name: " + x.name);
-        	                System.out.println("Age: " + x.age);
-                	        System.out.println("Salary: " + x.salary);
+				System.out.println("Name: " + x.getName());
+        	                System.out.println("Age: " + x.getAge());
+                	        System.out.println("Salary: " + x.getSalary());
 			}
 		}
 	}
@@ -46,7 +62,7 @@ class Company{
 	boolean employeeExists(String name){
 		for (Employee x : this.employees) {
 			if (x != null) {
-	                        if (new String(x.name).equals(name)) {
+	                        if (new String(x.getName()).equals(name)) {
         	                        return true;
                 	        }
 			}

@@ -6,6 +6,12 @@ class TestEncapsulation{
 
 		Employee e2 = new Employee("Test Rename");
 		e2.setSalary(3000.75);
-		System.out.println("id: " + e2.getId() + ". Employee " + e2.getName() + " salary " + e2.getSalary() + " anual earning " + e2.getAnualEarnings());
+		e2.setHireDate("29/02/2012");
+		System.out.println("id: " + e2.getId() + ". Employee " + e2.getName() + " salary " + e2.getSalary() + " anual earning " + e2.getAnualEarnings() + " hire date " + e2.getHireDate().formated());
+
+		Company company = new Company(2);
+		company.addEmployee(e1);
+		company.addEmployee(e2);
+		company.showEmployees();
 	}
 }
