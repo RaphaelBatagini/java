@@ -15,6 +15,9 @@ Studying Java
 	* [Recursion With Array](https://github.com/RaphaelBatagini/java/tree/master/ObjectOrientation/RecursionWithArray)
 	* [Class House Example](https://github.com/RaphaelBatagini/java/tree/master/ObjectOrientation/ClassHouseExample)
 	* [Encapsulation](https://github.com/RaphaelBatagini/java/tree/master/ObjectOrientation/Encapsulation)
+* [Design Patterns](https://github.com/RaphaelBatagini/java/tree/master/DesignPatterns)
+	* [Singleton](https://github.com/RaphaelBatagini/java/tree/master/DesignPatterns/Singleton)
+
 
 
 Book containing the subject of study:
