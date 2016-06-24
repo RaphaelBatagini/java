@@ -21,4 +21,4 @@ Studying Java
 
 
 Book containing the subject of study:
-* [Apostila do curso FJ-11: Java e Orientação a Objetos](https://www.caelum.com.br/apostila-java-orientacao-objetos) Cap. 6.8 (Last Challenge)
+* [Apostila do curso FJ-11: Java e Orientação a Objetos](https://www.caelum.com.br/apostila-java-orientacao-objetos) Chapter 7
