@@ -1,9 +1,9 @@
-class Manager extends Employee {
+class ManagerPlus extends Employee {
 	int password;
 	int numberOfEmployeesManaged;
 
 	@Override
 	public double getBonus(){
-		return this.salary * 0.15;
+		return super.getBonus() + 1000;
 	}
 }
