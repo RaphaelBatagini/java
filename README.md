@@ -22,6 +22,7 @@ Studying Java
 
 Notes:
 * Use Inheritance when the child class "is one" and not when it "has one";
+* Prefer composition instead of inheritance;
 
 Book containing the subject of study:
 * [Apostila do curso FJ-11: Java e Orientação a Objetos](https://www.caelum.com.br/apostila-java-orientacao-objetos) Chapter 7
