@@ -20,7 +20,8 @@ Studying Java
 * [Design Patterns](https://github.com/RaphaelBatagini/java/tree/master/DesignPatterns)
 	* [Singleton](https://github.com/RaphaelBatagini/java/tree/master/DesignPatterns/Singleton)
 
-
+Notes:
+* Use Inheritance when the child class "is one" and not when it "has one";
 
 Book containing the subject of study:
 * [Apostila do curso FJ-11: Java e Orientação a Objetos](https://www.caelum.com.br/apostila-java-orientacao-objetos) Chapter 7
