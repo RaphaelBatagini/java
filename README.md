@@ -29,4 +29,4 @@ Notes:
 * Prefer composition instead of inheritance;
 
 Book containing the subject of study:
-* [Apostila do curso FJ-11: Java e Orientação a Objetos](https://www.caelum.com.br/apostila-java-orientacao-objetos) Chapter 8
+* [Apostila do curso FJ-11: Java e Orientação a Objetos](https://www.caelum.com.br/apostila-java-orientacao-objetos) Chapter 10
